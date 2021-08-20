@@ -1,3 +1,30 @@
-body {
-    background: lightgoldenrodyellow;
+*{
+  background:#7cb2d6;
+  margin: 20px;
+  
 }
+h1{
+  font-size: 50px;
+  font-family: Montserrat;
+  
+  }
+.middletext{
+  background-color: white;
+  font-size: 20px;
+  font-family: Montserrat;
+  border-style: solid;
+  padding: 25px 50px 75px 100px;
+  box-shadow: 10px 10px white;
+  
+}
+img{
+  width: 400px;
+    
+.middletext{
+	font-family: calibri;
+}
+    
+
+  
+  
+  
